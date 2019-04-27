@@ -1,9 +1,7 @@
-# Airbnb_ML
-
 # Airbnb_ML(Machine Learning)
-# Rachel Powell, Lori Harris, Brianna McKelvey
+### Rachel Powell, Lori Harris, Brianna McKelvey
 
-# Build on Airbnb App from Project 2
+## Build on Airbnb App from Project 2
 #Data Source: http://insideairbnb.com - New Orleans listings (option to add more cities)
 
 
