@@ -8,9 +8,9 @@
 
 ### Techniques/possible areas for analysis:
 
-- Use machine learning to determine the “best” Airbnb
-- Linear regression (best time to buy); average $ per month 
-- Models to predict good/bad based on features (e.g. amenities, # rms, location) 
+- Use machine learning to determine the “best” Airbnb - Lori
+- Models to predict good/bad based on features (e.g. amenities, # rms, location) - Lori
+- Linear regression (best time to buy); average $ per month - Brianna
 - Apply models to compare with price - create our own star system (e.g. bins)
 - Use ML to search comments for key words to determine quality of listings
 - Clustering to compare quality with price
